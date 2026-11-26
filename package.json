@@ -1,0 +1,19 @@
+{
+  "name": "prw2_avaliacao3",
+  "version": "1.0.0",
+  "description": "PRW2 - Avaliação 3: API de alunos com Node, Express e autenticação JWT",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
